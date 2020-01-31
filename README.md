@@ -5,7 +5,7 @@ Exploring support vector machines (SVMs) using GridsearchCV and working with hig
 
 
 ### Project
-For this assignment you will be exploring support vector machines (SVMs)
+For this project I will be exploring support vector machines (SVMs)
 using GridsearchCV and working with highly unbalanced datasets.
 
 
