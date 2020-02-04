@@ -1,4 +1,4 @@
-# Support-Vector-Machines
+# Credit Card Fraud Detection Using Support-Vector-Machines
 Exploring support vector machines (SVMs) using GridsearchCV and working with highly unbalanced dataset: European Cardholder Credit Card Transactions
 
 ![alt_text](https://lh4.googleusercontent.com/proxy/1b4sPrViWc4PFplKgTrIDcYGiIo94tlcXeOYXlY5X788TL3cwiSPDn9yfv9SAsd5DlXSEJViK84IsXfr3-44iXyoFq3Ozw)
